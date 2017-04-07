@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="resultNumberTextSize">34sp</dimen>
+    <dimen name="firstPageHeaderTextSize">30sp</dimen>
+    <dimen name="questionPageHeaderTextSize">24sp</dimen>
+    <dimen name="firstPageDescriptionTextSize">20sp</dimen>
+    <dimen name="textSizeAnswerOptions">16sp</dimen>
+    <dimen name="stdMarginSize">16dp</dimen>
+    <dimen name="smallMarginSize">8dp</dimen>
+</resources>

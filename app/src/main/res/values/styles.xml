@@ -1,0 +1,84 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="nameFieldStyle">
+        <item name="android:layout_margin">@dimen/stdMarginSize</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+    <style name="descriptionTextStyle">
+        <item name="android:layout_marginBottom">@dimen/stdMarginSize</item>
+        <item name="android:layout_marginLeft">@dimen/stdMarginSize</item>
+        <item name="android:layout_marginRight">@dimen/stdMarginSize</item>
+        <item name="android:textSize">@dimen/firstPageDescriptionTextSize</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="questionPageHeaderStyle">
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="android:textSize">@dimen/questionPageHeaderTextSize</item>
+        <item name="android:layout_margin">@dimen/smallMarginSize</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="questionTextViewStyle">
+        <item name="android:layout_margin">@dimen/stdMarginSize</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="android:textSize">@dimen/firstPageDescriptionTextSize</item>
+    </style>
+
+    <style name="radioButtonStyle">
+        <item name="android:layout_marginStart">@dimen/stdMarginSize</item>
+        <item name="android:padding">@dimen/stdMarginSize</item>
+    </style>
+
+    <style name="firstPageHeaderStyle">
+        <item name="android:layout_marginBottom">24dp</item>
+        <item name="android:layout_marginLeft">@dimen/stdMarginSize</item>
+        <item name="android:layout_marginRight">@dimen/stdMarginSize</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">@dimen/firstPageHeaderTextSize</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textColor">@color/colorTextIcons</item>
+    </style>
+
+    <style name="firstPageLogo">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_margin">24dp</item>
+    </style>
+
+    <style name="firstPageBtnStyle">
+        <item name="android:layout_margin">@dimen/stdMarginSize</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">@color/colorPrimaryText</item>
+        <item name="android:textColor">@color/colorTextIcons</item>
+    </style>
+
+    <style name="resultNumberStyle">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">@dimen/resultNumberTextSize</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+    </style>
+
+    <style name="resultsRevealedStyle">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">@dimen/textSizeAnswerOptions</item>
+    </style>
+
+    <style name="chkBoxStyle">
+        <item name="android:layout_marginStart">@dimen/stdMarginSize</item>
+        <item name="android:layout_marginBottom">@dimen/stdMarginSize</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Health and Fitness Quiz</string>
+    <!-- Hint text in the name field -->
+    <string name="name_field_hint">Name</string>
+    <!-- Header with app name on firswt screen -->
+    <string name="start_page_header_text">Health and Fitness Quiz</string>
+    <!-- Description of what the quiz is about located below the name field -->
+    <string name="start_page_description_text">Test your knowledge about common health and fitness misconceptions</string>
+    <!-- Start button text on first screen -->
+    <string name="start_button">Start quiz</string>
+    <!-- Header text in the question activity -->
+    <string name="question_header_text">Health and Fitness Quiz</string>
+    <!-- Answer "true" to question -->
+    <string name="true_answer">True</string>
+    <!-- Answer "false" to question -->
+    <string name="false_answer">False</string>
+    <!-- Question 1 question text -->
+    <string name="question_one_text">1. Stretching does not help your body recover faster</string>
+    <!-- Question 2 question text -->
+    <string name="question_two_text">2. Cold weather increases your chances of catching a cold</string>
+    <!-- Question 3 question text -->
+    <string name="question_three_text">3. You need to sweat for 45 minutes to get a health benefit</string>
+    <!-- Question 4 question text -->
+    <string name="question_four_text">4. Spinning burns more calories than Yoga</string>
+    <!-- Question 5 question text -->
+    <string name="question_five_text">5. Eating many small meals increases your metabolism</string>
+    <!-- Question 6 question text -->
+    <string name="question_six_text">6. Select the three major macronutrients</string>
+    <!-- Question 6 answer 1 - Carbohydrates -->
+    <string name="question_six_answer1">Carbohydrates</string>
+    <!-- Question 6 answer 2 - Fat -->
+    <string name="question_six_answer2">Fat</string>
+    <!-- Question 6 answer 3 - Sugar -->
+    <string name="question_six_answer3">Sugar</string>
+    <!-- Question 6 answer 4 - Protein -->
+    <string name="question_six_answer4">Protein</string>
+    <!-- Question 7 question text -->
+    <string name="question_seven_text">If you don\'t drink enough liquid you will become? (enter the answer below)</string>
+    <!-- question 7 EditText hint -->
+    <string name="question_seven_hint">Enter answer here</string>
+    <!-- Results header text -->
+    <string name="results_header_text">Result</string>
+    <!-- Text on Reset button -->
+    <string name="reset_button">Reset</string>
+    <!-- Text on Finish button -->
+    <string name="finish_button">See score</string>
+    <!-- Text if perfect score -->
+    <string name="congratulations">Congratulation! Perfect score</string>
+    <!-- Text if score is 4 or 5 -->
+    <string name="prettyGood">Pretty good job!</string>
+    <!-- Text if score equals 3 -->
+    <string name="notTerrible">Not a terrible score but it could be better</string>
+    <!-- Text if score is between 0-2 -->
+    <string name="terribleScore">That was terrible! You need to read up on these things</string>
+    <string name="q1r">Question 1:</string>
+    <string name="q2r">Question 2:</string>
+    <string name="q3r">Question 3:</string>
+    <string name="q4r">Question 4:</string>
+    <string name="q5r">Question 5:</string>
+    <string name="q6r">Question 6:</string>
+    <string name="q7r">Question 7:</string>
+</resources>
